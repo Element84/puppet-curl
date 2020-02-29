@@ -71,7 +71,7 @@ GEM
       rspec-puppet (>= 0.1.1)
     pusher-client (0.4.0)
       websocket (~> 1.0.0)
-    rake (10.1.0)
+    rake (12.3.3)
     rbvmomi (1.6.0)
       builder
       nokogiri (>= 1.4.1)
